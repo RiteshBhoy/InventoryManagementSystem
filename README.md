@@ -1,8 +1,8 @@
 # InventoryManagementSystem
 A Java-based application for efficient inventory control, allowing users to manage products, track stock levels, and generate reports. Features include product management, stock tracking, search functionality, and user authentication. Built with Java, JavaFX for the GUI, and SQLite for data storage. Ideal for retail and warehouse operations.
 
-Login Page:-
-![login](https://github.com/user-attachments/assets/518ba8f4-17b2-4106-8e2c-7a33f679868f)         Logout:-![logout](https://github.com/user-attachments/assets/a2811b9c-b916-4c4e-8253-29a5b2575588)
+
+![login](https://github.com/user-attachments/assets/518ba8f4-17b2-4106-8e2c-7a33f679868f)        ![logout](https://github.com/user-attachments/assets/a2811b9c-b916-4c4e-8253-29a5b2575588)
 
 
 Customers:-![customers](https://github.com/user-attachments/assets/9714d405-3739-409e-9f2a-7470cd0273c1)       Suppliers:-![suppliers](https://github.com/user-attachments/assets/85e744a1-c647-4567-ae3c-7abb2357befb)
